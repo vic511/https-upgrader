@@ -1,0 +1,2 @@
+# Common domains allowed to bypass HTTPS upgrade on iOS devices
+ocsp.apple.com

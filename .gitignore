@@ -1,0 +1,4 @@
+# Automatically generated
+conf/resolver.conf
+conf/bypass/*.conf
+conf/bypass/**/*.txt
